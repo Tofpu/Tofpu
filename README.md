@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on ... Spigot Plugins
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python or JavaScript in the future
 - 💬 Ask me about ... Spigot or something Minecraft related
 - 📫 How to reach me: ... Tofpu#3224 at discord
 - 😄 Pronouns: ... He/Him
