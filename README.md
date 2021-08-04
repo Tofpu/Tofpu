@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Tofpu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=tofpu&count_private=true&show_icons=true&theme=dark&icon_color=fff&border_color=9f9f9f">
