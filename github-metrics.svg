@@ -944,7 +944,7 @@ This commit should fix the infamous 'the application did not respond' problem wh
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="99.2 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="99.71666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -966,7 +966,7 @@ This commit should fix the infamous 'the application did not respond' problem wh
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 392 times</div>
+                                <div class="text">Repositories have been deployed 393 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1416,7 +1416,7 @@ This commit should fix the infamous 'the application did not respond' problem wh
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jun 2024, 03:58:37 (timezone Africa/Cairo) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 12 Jun 2024, 05:01:50 (timezone Africa/Cairo) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
