@@ -579,7 +579,7 @@ To fix it, use the commit version instead of the release version on JitPack. As 
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.743333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.846666666666668 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -601,7 +601,7 @@ To fix it, use the commit version instead of the release version on JitPack. As 
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1133 times</div>
+                                <div class="text">Repositories have been deployed 1134 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1016,7 +1016,7 @@ To fix it, use the commit version instead of the release version on JitPack. As 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.48m out of 214m repositories</span>
+                                    <span class="gh">ranked 1.48m out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 7 times</div>
                             </div>
@@ -1054,7 +1054,7 @@ To fix it, use the commit version instead of the release version on JitPack. As 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.37m out of 214m repositories</span>
+                                    <span class="gh">ranked 1.37m out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 17 stars</div>
                             </div>
@@ -1231,7 +1231,7 @@ To fix it, use the commit version instead of the release version on JitPack. As 
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jul 2024, 15:23:11 (timezone Africa/Cairo) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 13 Jul 2024, 16:15:48 (timezone Africa/Cairo) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
