@@ -30,8 +30,7 @@ jobs:
           # Options
           user: Tofpu
           template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Africa/Cairo
+          base: header
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
