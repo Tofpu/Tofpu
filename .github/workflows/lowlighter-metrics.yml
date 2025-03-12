@@ -31,6 +31,7 @@ jobs:
           user: Tofpu
           template: classic
           base: header
+          config_timezone: Africa/Maputo
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
