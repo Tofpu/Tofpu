@@ -28,4 +28,4 @@ jobs:
           user: Tofpu
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Africa/Maputo
+          config_timezone: Africa/Cairo
