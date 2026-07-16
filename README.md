@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Software Developer with 2 years of professional experience creating software.
+I'm a Software Developer with 3 years of professional experience creating software.
 
 ## Familiar Technology
 
